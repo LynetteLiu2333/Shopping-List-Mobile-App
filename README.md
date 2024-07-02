@@ -19,7 +19,7 @@ This project is a mobile application designed to simplify shopping list manageme
 
 ### Links
 
-- Live Site URL: []
+- Live Site URL: [https://shopping-list-mobile-app.onrender.com]
 
 ### Built with
 
