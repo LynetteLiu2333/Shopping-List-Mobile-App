@@ -21,14 +21,14 @@ This project is a mobile application designed to simplify shopping list manageme
 
 - Live Site URL: [https://shopping-list-mobile-app.onrender.com]
 
+## My process
+
 ### Built with
 
 - HTML
 - CSS
 - Javascript
 - Firebase
-
-## My process
 
 ### What I learned
 
